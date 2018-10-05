@@ -14,6 +14,10 @@ sudo apt-get install libttspico-utils
 In Arch Linux the pico2wave binaries are available in an Arch User repository (AUR) under
 https://aur.archlinux.org/packages/svox-pico-bin/
 
+##  Availability via PaperUI
+After manual install you can make the options to select Pico TTS from PaperUI available by downloading the .jar file and place it in addons folder.  
+
+
 ## Configuration
 
 There is no need to configure anything for this service.
